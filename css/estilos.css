@@ -1,0 +1,33 @@
+#cont{
+     width: 968px;
+    
+}
+
+#menu{
+    
+    background-color:blue;
+    height: 25px;
+    width: 968px;
+
+}
+
+#slider{
+    
+    background-color:darksalmon;
+    height: 359px;
+    width: 968px;
+}
+#cuerpo{
+    
+    background-color:gold;
+    height: 700px;
+    
+}
+
+#footer{
+    
+    background-color:deeppink;
+    height: 50px;
+    width: 968px;
+}
+    
